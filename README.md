@@ -10,7 +10,7 @@ It includes two major parts:
 
 ---
 
-## 🧩 Task 1: Template to Blade Conversion → 40%
+## 🧩 Task 1: Template to Blade Conversion
 
 ### 🎯 Objective
 
@@ -24,7 +24,7 @@ Convert the provided **Bootstrap HTML Template** into Laravel’s **Blade struct
 
 ---
 
-## 🧱 Task 2: Database Design to Migration → 40%
+## 🧱 Task 2: Database Design to Migration
 
 ### 🎯 Objective
 
