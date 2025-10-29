@@ -46,7 +46,6 @@ represent the database schema based on the provided diagram.
 # Clone repository
 git clone https://github.com/yourusername/pos-system.git
 
-
 # Run migrations
 php artisan migrate
 
